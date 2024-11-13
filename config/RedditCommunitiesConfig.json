@@ -1,0 +1,14 @@
+{
+    "RedditCommunities" : {
+        "constructor" : {
+            "driverPath"  : "D:\\007.Improved_Traackr\\src\\config\\chromedriver.exe",
+            "maxWaitTime" : 30
+        },
+        "redditCommunitiesSettingsMethod" : {
+            "numberOfCommunities"  : 300,
+            "redditCommunitiesUrl" : "https://www.reddit.com/best/communities/%d/",
+            "outputFilePath"       : "C:\\Users\\user\\IdeaProjects\\05.RedditCollector\\src\\main\\java\\org\\example\\data\\",
+            "outputFileName"       : "Top Subreddits Data.json"
+        }
+    }
+}
